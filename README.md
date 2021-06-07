@@ -23,8 +23,6 @@ Apaixonada por resolver problemas e entregar uma solução.
 <a href="https://criarmeulink.com.br/u/1623101973243" title="Entre em contato via E-mail">
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
 <a href="https://www.linkedin.com/in/m-lemos07/" alt="Linkedin">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/m-lemos07/" alt="Linkedin">
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 </p>  
 
