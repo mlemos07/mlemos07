@@ -1,10 +1,24 @@
+
 <h1>
- Hey 👋
+Hey 👋
 </h1>
 
 <p>
-Olá, sou a <strong>Marianna Lemos</strong>, desenvolvedora front-end web. 
+Olá, meu nome é <strong>Marianna Lemos</strong> 👩🏼 🇧🇷.
 </p>
+
+<p>
+Sou desenvolvedora front-end desde o início de 2020. 💻
+</p>
+
+<p>
+Apaixonada por resolver problemas e entregar uma solução. 
+</p>
+
+- 📍 De Rj, morando em Salvador.
+- 💻 Front-End na empresa Ameko. 
+
+<p> Encontre-me 👇 </p>
 
 <a href="https://criarmeulink.com.br/u/1623101973243" title="Entre em contato via E-mail">
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
