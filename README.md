@@ -20,9 +20,9 @@ Apaixonada por resolver problemas e entregar uma solução.
 
 <p> Encontre-me 👇 </p>
 
-<a href="https://criarmeulink.com.br/u/1623101973243" title="Entre em contato via E-mail">
+<a href="https://www.linkedin.com/in/m-lemos07/" title="Entre em contato via E-mail">
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
-<a href="https://www.linkedin.com/in/m-lemos07/" alt="Linkedin">
+<a href="https://criarmeulink.com.br/u/1623101973243" alt="Linkedin">
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 </p>  
 
