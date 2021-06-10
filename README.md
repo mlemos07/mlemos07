@@ -38,4 +38,5 @@ Apaixonada por resolver problemas e entregar uma solução.
 <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="25"/>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlemos07&hide=issues,contribs,prs&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
