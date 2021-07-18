@@ -16,7 +16,7 @@ Apaixonada por resolver problemas e entregar uma solução.
 </p>
 
 - 📍 De Rj, morando em Salvador.
-- 💻 Front-End na empresa Ameko. 
+- 💻 Front-End na empresa Taghos. 
 
 <p> Encontre-me 👇 </p>
 
