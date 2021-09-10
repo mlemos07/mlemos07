@@ -11,10 +11,6 @@ Olá, meu nome é <strong>Marianna Lemos</strong> 👩🏼 🇧🇷.
 Sou desenvolvedora front-end desde o início de 2020. 💻
 </p>
 
-<p>
-Apaixonada por resolver problemas e entregar uma solução. 
-</p>
-
 - 📍 De Rj, morando em Salvador.
 - 💻 Front-End na empresa Taghos. 
 
